@@ -127,7 +127,7 @@ section {
   font-size: 1.5em;
 }
 
-#nav-list {
+#nav-list.navbar-right.navbar-nav {
   color: white;
 }
 
